@@ -1,3 +1,3 @@
 # GIBEOM's Github
 
-Welcome my github
+You can see my page on: https://leegibeom.github.io/
